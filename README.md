@@ -19,6 +19,7 @@ Key Insights
 February 2024 generated the highest total revenue.
 Monday recorded the highest total sales among all days.
 Customer C contributed the highest revenue, making them the most valuable customer.
+
 Recommendations
 
 Allocate more resources during high-performing periods such as Monday.
